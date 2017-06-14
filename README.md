@@ -1,3 +1,10 @@
+## Short description
+get_prepare.R - script for getting file from internet and adjust table
+Plot1.R - plot first chart + save as Plot1.PNG
+Plot2.R - plot second chart + save as Plot2.PNG
+Plot3.R - plot third  chart + save as Plot3.PNG
+Plot4.R - plot fourth chart + save as Plot4.PNG
+
 ## Introduction
 
 This assignment uses data from
